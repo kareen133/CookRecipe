@@ -20,11 +20,11 @@ Welcome to the **CookRecipe** project, where modern design meets responsive eleg
 
 1. Clone the repository from GitHub.
    ```bash
-   git clone https://github.com/your-username/cookrecipe.git
+   git clone https://github.com/kareen133/CookRecipe.git
    ```
 2. Navigate to the project directory.
    ```bash
-   cd cookrecipe
+   cd CookRecipe
    ```
 3. Open the `index.html` file in a browser to view the project.
 
