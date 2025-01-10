@@ -1,3 +1,5 @@
+![project2](https://github.com/user-attachments/assets/fcea5059-1d27-4689-91b8-d307992a8a79)
+
 # CookRecipe
 
 Welcome to the **CookRecipe** project, where modern design meets responsive elegance. This project showcases a clean, intuitive layout that adapts seamlessly across all devices—from desktops to smartphones. With a focus on user experience and aesthetic appeal, it features a contemporary design with interactive elements and an easy-to-navigate interface.
@@ -25,18 +27,6 @@ Welcome to the **CookRecipe** project, where modern design meets responsive eleg
    cd cookrecipe
    ```
 3. Open the `index.html` file in a browser to view the project.
-
-## Media Preview
-
-Here’s a glimpse of the **CookRecipe** project in action:
-
-### Desktop View:
-
-![project2](https://github.com/user-attachments/assets/fcea5059-1d27-4689-91b8-d307992a8a79)
-
-
-### Mobile View:
-
 
 
 ## Live Demo
