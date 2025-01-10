@@ -32,6 +32,7 @@ Here’s a glimpse of the **CookRecipe** project in action:
 
 ### Desktop View:
 
+![project2](https://github.com/user-attachments/assets/fcea5059-1d27-4689-91b8-d307992a8a79)
 
 
 ### Mobile View:
@@ -40,11 +41,11 @@ Here’s a glimpse of the **CookRecipe** project in action:
 
 ## Live Demo
 
-Check out the live version of the project [here](https://your-live-demo-link.com).
+Check out the live version of the project [here](https://kareen133.github.io/CookRecipe/).
 
 ## Repository
 
-Explore the code and contribute to the project on GitHub: [CookRecipe Repository](https://github.com/your-username/cookrecipe).
+Explore the code and contribute to the project on GitHub: [CookRecipe Repository](https://github.com/kareen133/CookRecipe).
 
 ## Contributing
 
